@@ -6,6 +6,10 @@ mazeSolver
 , DOES NOT MAKE USE OF MVC
 
 
+
+*Save the maze txt files in your project directory
+
+
 1)Click 'Start' to select a maze
 
 
